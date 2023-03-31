@@ -11,4 +11,9 @@ public class Probando {
         int suma = num1 + num2;
         return suma;
     }
+
+    public static int resta(int num1, int num2){
+        int resta = num1 - num2;
+        return resta;
+    }
 }
